@@ -12,9 +12,9 @@
 //
 // TODO:Student Information
 //
-const char *studentName = "Gandhar Deshpande";
-const char *studentID   = "A59005457";
-const char *email       = "gdeshpande@ucsd.edu";
+const char *studentName = "Muhammad Z Khan";
+const char *studentID   = "A15876135";
+const char *email       = "mzkhan@ucsd.edu";
 
 //------------------------------------//
 //      Predictor Configuration       //
