@@ -33,7 +33,7 @@ int bpType;       // Branch Prediction Type
 int verbose;
 int MAX_WEIGHT_PERCEPTRON = 15;  //7 to -8 -> 4 bits
 int MIN_WEIGHT_PERCEPTRON = -16;
-int Y_THRESHOLD_PERCEPTRON = 8;
+int Y_THRESHOLD_PERCEPTRON = 12;
 
 
 
